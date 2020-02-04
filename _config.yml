@@ -21,7 +21,7 @@
 title: iamRogerKlotz
 email: iamRogerKlotz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Accomplished solution architect and systems engineer with 12 years experience providing managed support services primarily to enterprise businesses, clients and end-users.  Currently focused on public cloud computing systems and end-to-end service delivery for clients migrating to new cloud environments and extending existing private datacenters with cloud computing technologies.
+    Accomplished solution architect and systems engineer with 12-plus years experience providing managed support services primarily to enterprise businesses, clients and end-users.  Currently focused on public cloud computing systems (Microsoft Azure) and end-to-end service delivery for clients migrating to new cloud environments and augmenting existing private datacenters with cloud computing technologies.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamRogerKlotz
