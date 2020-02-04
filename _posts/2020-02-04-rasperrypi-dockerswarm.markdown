@@ -7,8 +7,8 @@ categories: jekyll update
 
 Like many of you, I find myself to be a context-driven learner. My most effective discovery is always coupled with real (hopefully interesting) use-cases I can explore organically rather than traditional course work, self-study via reading, etc. Despite spending most of my time in the field helping end-users with their own challenges, it can be difficult at times to find problem statements that provide opportunities to explore particular technologies in which I’m interested.  As such, I recently committed myself to getting deeper with a few concepts that felt somewhat unfamiliar to me due to lack of legitimate practical application: 
 
-1) Containerization via Azure Kubernetes (AKS) and Docker
-2) Github and Azure Devops integration
+1) Containerization via Azure Kubernetes (AKS) and Docker  
+2) Github and Azure Devops integration  
 3) Basic Python and C# scripting
 
 I spent a few weeks noodling on what I could work with that was both relevant to these services and generally durable (from both a fun and utility perspective) that might provide some opportunity to “get smart”. Following my recent home network upgrade project including RaspberryPis for PiHole/Unbound DNS sinkholing, I figured I would continue the Pi theme.
