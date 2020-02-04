@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: About me...
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Accomplished solution architect and systems engineer with 12-plus years experience providing managed support services primarily to enterprise businesses, clients and end-users. Currently focused on public cloud computing systems (Microsoft Azure) and end-to-end service delivery for clients migrating to new cloud environments and augmenting existing private datacenters with cloud computing technologies.
