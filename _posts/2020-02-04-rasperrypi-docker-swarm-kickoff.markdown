@@ -5,7 +5,7 @@ date:   2020-02-04 07:58:15 -0600
 categories: jekyll update
 ---
 
-Like many of you, I find myself to be a context-driven learner.  My most effective discovery is always coupled with real (hopefully interesting) use-cases I can explore organically rather than traditional course work, self-study via reading, etc.  Despite spending most of my time in the field helping end-users with their own challenges, it can be difficult at times to find problem statements that provide opportunities to explore particular technologies in which I’m interested.  Over the coming months, I knew I wanted to get a bit deeper with a few technologies: 
+Like many of you, I find myself to be a context-driven learner.  My most effective discovery is always coupled with real (hopefully interesting) use-cases I can explore organically rather than traditional course work, self-study via reading, etc.  Despite spending most of my time in the field helping end-users with their own challenges, it can be difficult at times to find problem statements that provide opportunities to explore particular technologies in which I’m interested.  In the few months to come, I knew I wanted to get a bit deeper with a few technologies: 
 
 1) Containerization via Azure Kubernetes (AKS) and Docker 
 
