@@ -13,6 +13,6 @@ Like many of you, I find myself to be a context-driven learner.  My most effecti
 
 I spent a few weeks noodling on what I could work with that was both relevant to these services and generally durable (from both a fun and utility perspective) that might provide some opportunity to "get smart".  Following my recent home network upgrade project including RaspberryPis for PiHole/Unbound DNS sinkholing, I figured I would continue the Pi theme.  
 
-I stumbled on a TON of basic Python-based robotics projects on Amazon that seemed to tick the "fun" box, and decided building a Docker Swarm on a cluster of RaspberryPis might be an effective way to create some resiliancy for my local DNS resolvers and provide some local capactity to run a few other containers.  As such, I snatach up this rad Yahboom tank project, a load of RaspberryPi 4s, random components and fresh cup (or ten) of coffee...let's see where this goes.  
+I stumbled on a TON of basic Python-based robotics projects on Amazon that seemed to tick the "fun" box, and decided building a Docker Swarm on a cluster of RaspberryPis might be an effective way to create some resiliancy for my local DNS resolvers and provide some local capactity to run a few other containers.  As such, I snatached up this neat Yahboom tank project, a load of RaspberryPi 4s, random components and a fresh cup (or ten) of coffee...let's see where this goes.  
 
 ![useful image]({{site.url}}/assets/1Q3A0680.JPG)
