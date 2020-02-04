@@ -15,4 +15,4 @@ I spent a few weeks noodling on what I could work with that was both relevant to
 
 I stumbled on a TON of basic Python-based robotics projects on Amazon that seemed to tick the "fun" box, and decided building a Docker Swarm on a cluster of RaspberryPis might be an effective way to create some resiliancy for my local DNS resolvers and provide some local capactity to run a few other containers.  As such, I snatach up this rad Yahboom tank project, a load of RaspberryPi 4s, random components and fresh cup (or ten) of coffee...let's see where this goes.  
 
-![useful image]({{site.url}}/assets/1Q3A0680.JPG.jpg)
+![useful image]({{site.url}}/assets/1Q3A0680.JPG)
