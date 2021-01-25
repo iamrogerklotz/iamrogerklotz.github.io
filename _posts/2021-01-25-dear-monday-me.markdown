@@ -13,8 +13,10 @@ About a year ago, I started a practice that I call “Dear Monday Me.”  Simple
 
 Every Friday around noon, I borrow 15-20 minutes from my calendar to jot down a few things:
 
-1)  All items that I worked that day along with a brief description of their status/next step.  This is actually a really impactful daily ritual, but super important proceeding a weekend.   
-2)  Specific call outs for important due dates and milestones occurring the following week especially if they fall on Monday/Tuesday.  Condense your calendar into the big items you know must get completed.  
+1)  All items that I worked that day along with a brief description of their status/next step.  This is actually a really impactful daily ritual, but super important proceeding a weekend.
+
+2)  Specific call outs for important due dates and milestones occurring the following week especially if they fall on Monday/Tuesday.  Condense your calendar into the big items you know must get completed.
+  
 3)  At least one strategic intention targeted at modifying a particular pattern/behavior/thought process (e.g. “increase focus time by modulating my disposition for multi-tasking”).
 
 This note is the FIRST thing I read before I even get out of bed on Monday.  It’s not rocket science, but it helps.  Use it, modify it, share your own process.  
